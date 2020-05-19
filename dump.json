@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ec38914bae3a22201926bb3"},"id":1,"name_car":"Ford","Model":"Econoline E350","year":1998,"color":"Red","price":"115275.90"}
+{"_id":{"$oid":"5ec38914bae3a22201926bb6"},"id":2,"name_car":"Mercedes-Benz","Model":"SL-Class","year":2002,"color":"Blue","price":"77036.31"}
+{"_id":{"$oid":"5ec38914bae3a22201926bb9"},"id":3,"name_car":"Mitsubishi","Model":"Pajero","year":1993,"color":"Red","price":"39708.42"}
+{"_id":{"$oid":"5ec38914bae3a22201926bbc"},"id":4,"name_car":"Volvo","Model":"C70","year":2013,"color":"Teal","price":"27892.20"}
+{"_id":{"$oid":"5ec38914bae3a22201926bbf"},"id":5,"name_car":"Mitsubishi","Model":"Challenger","year":1999,"color":"Khaki","price":"117297.49"}
+{"_id":{"$oid":"5ec38914bae3a22201926bc2"},"id":6,"name_car":"Acura","Model":"TL","year":1998,"color":"Violet","price":"27909.17"}
+{"_id":{"$oid":"5ec38914bae3a22201926bc5"},"id":7,"name_car":"Nissan","Model":"Maxima","year":1998,"color":"Orange","price":"132211.31"}
+{"_id":{"$oid":"5ec38914bae3a22201926bc8"},"id":8,"name_car":"Volkswagen","Model":"Eos","year":2012,"color":"Mauv","price":"160060.26"}
+{"_id":{"$oid":"5ec38914bae3a22201926bcb"},"id":9,"name_car":"Toyota","Model":"Celica","year":1983,"color":"Green","price":"9573.95"}
+{"_id":{"$oid":"5ec38914bae3a22201926bce"},"id":10,"name_car":"Ford","Model":"Focus","year":2000,"color":"Purple","price":"155839.68"}
